@@ -1,1 +1,6 @@
-# learn-fundamental-golang
+# Basic Golang Fundamental for Beginner
+
+- Data Type
+- Operation
+- Variable
+- Soon ...
